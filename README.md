@@ -16,4 +16,5 @@ docs.zip
 파일질라 다운로드
 https://filezilla-project.org/download.php?show_all=1
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8929c93b-1535-41a0-a032-ae4417c28d45)
+
